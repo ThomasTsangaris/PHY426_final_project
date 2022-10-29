@@ -1,4 +1,4 @@
-# PHY426_final_project
+# PHY426 Final Project
 Final Project for Graduate Level Course: Computational Modelling in Biophysics
 
 # Description:
